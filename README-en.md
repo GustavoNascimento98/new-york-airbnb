@@ -12,15 +12,18 @@ Acesse o [relatório](https://app.powerbi.com/view?r=eyJrIjoiOGZhNGM0ZDEtYzY5OC0
 [![](img/dashboard.gif)](https://app.powerbi.com/view?r=eyJrIjoiOGZhNGM0ZDEtYzY5OC00YzA4LTkzM2MtNzRkOTFlM2FjZjQ2IiwidCI6ImRhNmQ0OWRhLTU1N2MtNDQxNy04YWVmLTg4ZTA1MDcxOTE0MyJ9)
 
 ## Overview
-This project aims to develop a comprehensive Power BI report on homestays in New York City. The report utilizes a dataset sourced from the [kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data). The objective is to provide insights into the homestay market in NYC, including pricing trends, popular neighborhoods, and host performance metrics.
+Airbnb is an online platform that connects individuals who want to rent out their properties (such as houses, apartments, or rooms) with travelers seeking temporary accommodations. Hosts list their properties on the platform, set prices and conditions, while guests search for and book options that best meet their needs.
+
+To better meet the needs of future new customers, it is necessary to understand the behavior and demands of current customers, as well as to understand the characteristics of the highest-rated accommodations, in order to help owners adapt their properties and make them more attractive.
 
 ## Dataset Description:
-Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
+Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC for 2019.
 
-This dataset includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
+This [dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
 
+</br>
 <details>
-  <summary>Dataset</summary>
+  <summary><strong>Dataset</strong></summary>
 </br>
 
 | Column Name         | Data Type |

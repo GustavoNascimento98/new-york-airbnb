@@ -5,22 +5,25 @@
 
 # Análise das Hospedagens em Nova York
 
-Este projeto desenvolve um relatório abrangente do Power BI analisando hospedagens na cidade de Nova York anunciadas pelo Airbnb, oferecendo insights sobre preços, bairros populares e métricas de desempenho de crescimento.
+Nesse projeto foi desenvolvido um relatório usando o Power BI para analisar as hospedagens na cidade de Nova York anunciadas pelo Airbnb, com o intuito de oferecer insights sobre preços, bairros populares e métricas de desempenho de crescimento para o time de negócios da empresa.
 
 Acesse o [relatório](https://app.powerbi.com/view?r=eyJrIjoiOGZhNGM0ZDEtYzY5OC00YzA4LTkzM2MtNzRkOTFlM2FjZjQ2IiwidCI6ImRhNmQ0OWRhLTU1N2MtNDQxNy04YWVmLTg4ZTA1MDcxOTE0MyJ9):
 
 [![](img/dashboard.gif)](https://app.powerbi.com/view?r=eyJrIjoiOGZhNGM0ZDEtYzY5OC00YzA4LTkzM2MtNzRkOTFlM2FjZjQ2IiwidCI6ImRhNmQ0OWRhLTU1N2MtNDQxNy04YWVmLTg4ZTA1MDcxOTE0MyJ9)  
 
 ## Visão Geral
-Este projeto tem como objetivo desenvolver um relatório no Power BI sobre hospedagens na cidade de Nova York. O relatório utiliza um conjunto de dados obtido do [kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data). O objetivo é fornecer insights sobre o mercado de hospedagens em NYC, incluindo tendências de preços, bairros populares e entre outros.
+O Airbnb é uma plataforma online que conecta pessoas que querem alugar suas propriedades (como casas, apartamentos, ou quartos) com viajantes que buscam acomodações temporárias. Os anfitriões cadastram suas propriedades na plataforma, definem preços e condições, enquanto os hóspedes buscam e reservam as opções que melhor atendem às suas necessidades.
+
+Para atender melhor a necessidade de futuros novos clientes é necessário entender o comportamento e as demandas dos clientes atuais, assim como entender as características das acomodações melhores avaliadas, de modo a ajudar os proprietários a adaptarem as suas propriedades e torná-las mais atrativas.
 
 ## Conjunto de Dados
-Desde 2008, hóspedes e anfitriões têm utilizado o Airbnb para expandir as possibilidades de viagem e apresentar uma maneira mais única e personalizada de experimentar o mundo. Este conjunto de dados descreve a atividade de listagem e as métricas em NYC, NY para 2019.
+Desde 2008, hóspedes e anfitriões têm utilizado o Airbnb para expandir as possibilidades de viagem e apresentar uma maneira mais exclusiva e personalizada de experimentar o mundo. Este conjunto de dados descreve a atividade de listagem e as métricas na cidade de Nova York até 2019.
 
-Este conjunto de dados inclui todas as informações necessárias para descobrir mais sobre os anfitriões, disponibilidade geográfica, métricas necessárias para fazer previsões e tirar conclusões.
+Este [conjunto de dados](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) inclui todas as informações necessárias para descobrir mais sobre os anfitriões, disponibilidade geográfica, e outras métricas necessárias para fazer previsões e tirar conclusões.
 
+</br>
 <details>
-  <summary>Dataset</summary>
+  <summary><strong>Dataset</strong></summary>
 </br>
 
 | Nome da Coluna      | Data Type |
