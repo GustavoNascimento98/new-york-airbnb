@@ -7,7 +7,7 @@
 
 This project develops a comprehensive Power BI report analyzing homestays in New York City, offering insights into pricing, popular neighborhoods, and growth performance metrics.
 
-Acesse o [relatório](https://app.powerbi.com/view?r=eyJrIjoiOGZhNGM0ZDEtYzY5OC00YzA4LTkzM2MtNzRkOTFlM2FjZjQ2IiwidCI6ImRhNmQ0OWRhLTU1N2MtNDQxNy04YWVmLTg4ZTA1MDcxOTE0MyJ9):
+Go to the [report](https://app.powerbi.com/view?r=eyJrIjoiOGZhNGM0ZDEtYzY5OC00YzA4LTkzM2MtNzRkOTFlM2FjZjQ2IiwidCI6ImRhNmQ0OWRhLTU1N2MtNDQxNy04YWVmLTg4ZTA1MDcxOTE0MyJ9):
 
 [![](img/dashboard.gif)](https://app.powerbi.com/view?r=eyJrIjoiOGZhNGM0ZDEtYzY5OC00YzA4LTkzM2MtNzRkOTFlM2FjZjQ2IiwidCI6ImRhNmQ0OWRhLTU1N2MtNDQxNy04YWVmLTg4ZTA1MDcxOTE0MyJ9)
 
